@@ -1,0 +1,5 @@
+Preferences->key bindings
+进入一个对话框，然后在右侧输入：
+{ "keys": ["ctrl+b"], "command": "open_in_browser" },
+表示设置ctrl+b为将代码在浏览器中打开。
+设置完退出并保存。
